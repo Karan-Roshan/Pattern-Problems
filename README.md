@@ -44,12 +44,12 @@ Click on the **problem number** to view the code, and check the **pattern image*
   <tbody>
     <tr>
       <td>
-        <a href="./pattern_01.md">
+        <a href="Pattern Image/Pattern 1.png">
           Pattern 01
         </a>
       </td>
       <td>
-        <img src="./images/pattern01.png" alt="Pattern 01" width="200"/>
+        <img src="Pattern Image/Pattern 1.png" alt="Pattern 01" width="200"/>
       </td>
     </tr>
     <tr>
