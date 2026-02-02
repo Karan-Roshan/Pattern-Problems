@@ -44,7 +44,7 @@ Click on the **problem number** to view the code, and check the **pattern image*
   <tbody>
     <tr>
       <td>
-        <a href="Pattern Image/Pattern 1.png">
+        <a href="Patterns/Pattern_1.cpp">
           Pattern 01
         </a>
       </td>
