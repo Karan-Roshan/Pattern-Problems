@@ -44,42 +44,92 @@ Click on the **problem number** to view the code, and check the **pattern image*
   <tbody>
     <tr>
       <td>
-        <a href="Patterns/Pattern_1.cpp">
-          Pattern 01
+        <a href="Pattern/Symbol Patterns/FullPyramid1.java">
+          Full Pyramid 1
         </a>
       </td>
       <td>
-        <img src="Pattern Image/Pattern 1.png" alt="Pattern 01" width="200"/>
+        <img src="Pattern Image/Symbol Patterns Image/Full Pyramid 1.png" alt="Full Pyramid 1" width="200"/>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="./pattern_02.md">
-          Pattern 02
+        <a href="Pattern/Symbol Patterns/FullPyramid2.java">
+          Full Pyramid 2
         </a>
       </td>
       <td>
-        <img src="./images/pattern02.png" alt="Pattern 02" width="200"/>
+        <img src="Pattern Image/Symbol Patterns Image/Full Pyramid 2.png" alt="Full Pyramid 2" width="200"/>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="./pattern_03.md">
-          Pattern 03
+        <a href="Pattern/Symbol Patterns/InvertedFullPyramid1.java">
+          Inverted Full Pyramid 1
         </a>
       </td>
       <td>
-        <img src="./images/pattern03.png" alt="Pattern 03" width="200"/>
+        <img src="Pattern Image/Symbol Patterns Image/Inverted Full Pyramid 1.png" alt="Inverted Full Pyramid 1" width="200"/>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="./pattern_04.md">
-          Pattern 04
+        <a href="Pattern/Symbol Patterns/InvertedFullPyramid2.java">
+          Inverted Full Pyramid 2
         </a>
       </td>
       <td>
-        <img src="./images/pattern04.png" alt="Pattern 04" width="200"/>
+        <img src="Pattern Image/Symbol Patterns Image/Inverted Full Pyramid 2.png" alt="Inverted Full Pyramid 2" width="200"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="Pattern/Symbol Patterns/InvertedLeftHalfPyramid.java">
+          Inverted Left Half Pyramid
+        </a>
+      </td>
+      <td>
+        <img src="Pattern Image/Symbol Patterns Image/Inverted Left Half Pyramid.png" alt="Inverted Left Half Pyramid" width="200"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="Pattern/Symbol Patterns/InvertedRightHalfPyramid.java">
+          Inverted Right Half Pyramid
+        </a>
+      </td>
+      <td>
+        <img src="Pattern Image/Symbol Patterns Image/Inverted Right Half Pyramid.png" alt="Inverted Right Half Pyramid" width="200"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="Pattern/Symbol Patterns/LeftHalfPyramid.java">
+          Left Half Pyramid
+        </a>
+      </td>
+      <td>
+        <img src="Pattern Image/Symbol Patterns Image/Left Half Pyramid.png" alt="Left Half Pyramid" width="200"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="Pattern/Symbol Patterns/RightHalfPyramid.java">
+          Right Half Pyramid
+        </a>
+      </td>
+      <td>
+        <img src="Pattern Image/Symbol Patterns Image/Right Half Pyramid.png" alt="Right Half Pyramid" width="200"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="Pattern/Symbol Patterns/Square.java">
+          Square
+        </a>
+      </td>
+      <td>
+        <img src="Pattern Image/Symbol Patterns Image/Square.png" alt="Square" width="200"/>
       </td>
     </tr>
   </tbody>
