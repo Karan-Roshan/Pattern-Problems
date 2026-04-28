@@ -37,98 +37,98 @@ Click on the **problem number** to view the code, and check the **pattern image*
 <table>
   <thead>
     <tr>
-      <th>Pattern Problem</th>
-      <th>Pattern Output</th>
+      <th align="center">Pattern Problem</th>
+      <th align="center">Pattern Output</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>
+      <td align="center">
         <a href="Pattern/Symbol Patterns/FullPyramid1.java">
           Full Pyramid 1
         </a>
       </td>
-      <td>
+      <td align="center">
         <img src="Pattern Image/Symbol Patterns Image/Full Pyramid 1.png" alt="Full Pyramid 1" width="200"/>
       </td>
     </tr>
     <tr>
-      <td>
+      <td align="center">
         <a href="Pattern/Symbol Patterns/FullPyramid2.java">
           Full Pyramid 2
         </a>
       </td>
-      <td>
+      <td align="center">
         <img src="Pattern Image/Symbol Patterns Image/Full Pyramid 2.png" alt="Full Pyramid 2" width="200"/>
       </td>
     </tr>
     <tr>
-      <td>
+      <td align="center">
         <a href="Pattern/Symbol Patterns/InvertedFullPyramid1.java">
           Inverted Full Pyramid 1
         </a>
       </td>
-      <td>
+      <td align="center">
         <img src="Pattern Image/Symbol Patterns Image/Inverted Full Pyramid 1.png" alt="Inverted Full Pyramid 1" width="200"/>
       </td>
     </tr>
     <tr>
-      <td>
+      <td align="center">
         <a href="Pattern/Symbol Patterns/InvertedFullPyramid2.java">
           Inverted Full Pyramid 2
         </a>
       </td>
-      <td>
+      <td align="center">
         <img src="Pattern Image/Symbol Patterns Image/Inverted Full Pyramid 2.png" alt="Inverted Full Pyramid 2" width="200"/>
       </td>
     </tr>
     <tr>
-      <td>
+      <td align="center">
         <a href="Pattern/Symbol Patterns/InvertedLeftHalfPyramid.java">
           Inverted Left Half Pyramid
         </a>
       </td>
-      <td>
+      <td align="center">
         <img src="Pattern Image/Symbol Patterns Image/Inverted Left Half Pyramid.png" alt="Inverted Left Half Pyramid" width="200"/>
       </td>
     </tr>
     <tr>
-      <td>
+      <td align="center">
         <a href="Pattern/Symbol Patterns/InvertedRightHalfPyramid.java">
           Inverted Right Half Pyramid
         </a>
       </td>
-      <td>
+      <td align="center">
         <img src="Pattern Image/Symbol Patterns Image/Inverted Right Half Pyramid.png" alt="Inverted Right Half Pyramid" width="200"/>
       </td>
     </tr>
     <tr>
-      <td>
+      <td align="center">
         <a href="Pattern/Symbol Patterns/LeftHalfPyramid.java">
           Left Half Pyramid
         </a>
       </td>
-      <td>
+      <td align="center">
         <img src="Pattern Image/Symbol Patterns Image/Left Half Pyramid.png" alt="Left Half Pyramid" width="200"/>
       </td>
     </tr>
     <tr>
-      <td>
+      <td align="center">
         <a href="Pattern/Symbol Patterns/RightHalfPyramid.java">
           Right Half Pyramid
         </a>
       </td>
-      <td>
+      <td align="center">
         <img src="Pattern Image/Symbol Patterns Image/Right Half Pyramid.png" alt="Right Half Pyramid" width="200"/>
       </td>
     </tr>
     <tr>
-      <td>
+      <td align="center">
         <a href="Pattern/Symbol Patterns/Square.java">
           Square
         </a>
       </td>
-      <td>
+      <td align="center">
         <img src="Pattern Image/Symbol Patterns Image/Square.png" alt="Square" width="200"/>
       </td>
     </tr>
