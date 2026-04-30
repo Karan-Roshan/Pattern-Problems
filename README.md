@@ -132,6 +132,86 @@ Click on the **problem number** to view the code, and check the **pattern image*
         <img src="Pattern Image/Symbol Patterns Image/Square.png" alt="Square" width="200"/>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <a href="Pattern/Symbol Patterns/Diamond.java">
+          Diamond
+        </a>
+      </td>
+      <td align="center">
+        <img src="Pattern Image/Symbol Patterns Image/Diamond.png" alt="Diamond" width="200"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="Pattern/Symbol Patterns/HalfDiamondStar.java">
+          Half Diamond Star
+        </a>
+      </td>
+      <td align="center">
+        <img src="Pattern Image/Symbol Patterns Image/Half Diamond Star.png" alt="Half Diamond Star" width="200"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="">
+          Square
+        </a>
+      </td>
+      <td align="center">
+        <img src="" alt="Square" width="200"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="">
+          Square
+        </a>
+      </td>
+      <td align="center">
+        <img src="" alt="Square" width="200"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="">
+          Square
+        </a>
+      </td>
+      <td align="center">
+        <img src="" alt="Square" width="200"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="">
+          Square
+        </a>
+      </td>
+      <td align="center">
+        <img src="" alt="Square" width="200"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="">
+          Square
+        </a>
+      </td>
+      <td align="center">
+        <img src="" alt="Square" width="200"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="">
+          Square
+        </a>
+      </td>
+      <td align="center">
+        <img src="" alt="Square" width="200"/>
+      </td>
+    </tr>
   </tbody>
 </table>
 
